@@ -3,7 +3,7 @@ Test the LCD-display
 
 ![LCD1602](https://i.ibb.co/Hq6wnjw/LCD-Display-Arduino.jpg)
 
-#Wiring diagram
+# Wiring diagram
 
 Components
 
